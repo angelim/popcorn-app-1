@@ -120,7 +120,7 @@ sidebar {
     }
   }
 
-  a.play-button {
+  a.play-button, a.play-trailer {
     text-align: center;
     color: #FFF;
     font-weight: bold;
@@ -432,7 +432,7 @@ sidebar {
           }
         }
 
-        a.play-button {
+        a.play-button, a.play-trailer {
           background: $popcorn-blue;
           background-image: linear-gradient(to bottom, #3076ce 0%, #175ab0 100%);
           color: #FFF;
